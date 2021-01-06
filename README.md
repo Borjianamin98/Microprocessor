@@ -51,3 +51,7 @@ After capturing the type of wave to be drawn, through a variable resistor (analo
 Then the frequency value is received from the user in the next step and by pressing # the information is sent to be drawn to another system.
 
 This information is displayed on the screen by another system. The user has to wait until the end of drawing his waveform to be able to apply the next input.
+
+## Note
+
+All projects are done using Proteus Pro 8.10 SP3 and Keil MDK-ARM 5.30
